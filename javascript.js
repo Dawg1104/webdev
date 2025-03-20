@@ -1,1 +1,2 @@
-let x = 10
+var x="1";
+document.getElementById("X").innerHTML = x;
